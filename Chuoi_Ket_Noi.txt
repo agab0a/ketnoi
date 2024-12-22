@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=Van-Hai-dz123\SQLEXPRESS;Initial Catalog=QLBanHang;Integrated Security=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
